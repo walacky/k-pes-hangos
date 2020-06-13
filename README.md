@@ -1,2 +1,2 @@
-# k-pes-hangos
+# kepes-hangos
 Gyakorlatok háttérkép, -hang, és -videó beillesztésére.
